@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theFreeman96
 - 👀 I’m interested in developing mobile apps.
-- 🌱 I’m currently learning javascript, dart, flutter.
+- 🌱 I’m currently learning dart and flutter.
 
 <!---
 Stats
