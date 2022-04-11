@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning dart and flutter.
 
 <!---
-Stats
 [![theFreeman96's GitHub stats](https://github-readme-stats.vercel.app/api?username=theFreeman96&show_icons=true&theme=prussian)](https://github.com/theFreeman96/github-readme-stats)
 --->
 
