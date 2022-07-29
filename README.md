@@ -1,8 +1,7 @@
-[![theFreeman96's GitHub stats](https://github-readme-stats.vercel.app/api?username=theFreeman96&show_icons=true&theme=prussian)](https://github.com/theFreeman96/github-readme-stats)
+[![theFreeman96's GitHub stats](https://github-readme-stats.vercel.app/api?username=theFreeman96&show_icons=true&theme=default)](https://github.com/theFreeman96/github-readme-stats)
 
-- 👋 Hi, I’m @theFreeman96
-- 👀 I’m interested in developing mobile apps.
-- 🌱 I’m currently learning dart and flutter.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theFreeman96&layout=compact)](https://github.com/theFreeman96/github-readme-stats)
+
 
 <!---
 ![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label) ![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label)
