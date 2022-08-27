@@ -29,8 +29,8 @@
 
 * IDEs:
 
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
 
 * Willing to learn:
 
