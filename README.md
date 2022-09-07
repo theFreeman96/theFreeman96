@@ -44,7 +44,7 @@
 ## Follow Me
 
 [![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0E76A8?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-belvisi/)
-[![Visit my Portfolio](https://img.shields.io/badge/Portfolio-0175C2?logo=github&logoColor=white)](https://thefreeman96.github.io/portfolio/)
+[![Visit my Portfolio](https://img.shields.io/badge/Portfolio-2D333B?logo=github&logoColor=white)](https://thefreeman96.github.io/portfolio/)
 [![My Google Play Developer Page](https://img.shields.io/badge/Google_Play-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8416983635156421581)
 
 <!---
