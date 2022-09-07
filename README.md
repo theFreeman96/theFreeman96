@@ -36,7 +36,6 @@
 
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C_Sharp-239120?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white)
@@ -44,10 +43,9 @@
 
 ## Follow Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-belvisi/)
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8416983635156421581)
-
-[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-181717?logo=github&logoColor=white)](https://thefreeman96.github.io/portfolio/)
+[![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0E76A8?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-belvisi/)
+[![Visit my Portfolio](https://img.shields.io/badge/Portfolio-0175C2?logo=github&logoColor=white)](https://thefreeman96.github.io/portfolio/)
+[![My Google Play Developer Page](https://img.shields.io/badge/Google_Play-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8416983635156421581)
 
 <!---
 theFreeman96/theFreeman96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
