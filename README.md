@@ -17,7 +17,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-C991F5?logo=adobeaftereffects&logoColor=white)
 
-* Coding:
+* Dev:
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
