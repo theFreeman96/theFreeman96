@@ -9,7 +9,7 @@
 
 ## Skills
 
-* Graphic Design:
+### Graphic Design:
 
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white)
 
-* Dev:
+### Dev:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -35,17 +35,19 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-* IDEs:
+### IDEs:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
+![XCode](https://img.shields.io/badge/XCode-147EFB?logo=xcode&logoColor=white)
 
-* Currently learning:
+### Currently learning:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C_Sharp-239120?logo=csharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudiocode&logoColor=white)
 
 ## Follow Me
 
