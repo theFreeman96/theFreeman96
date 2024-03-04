@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=It's-a-me+Davide!+I'm+an+Italian+Dev;Hi,+I'm+Davide,+Dev+and+Designer+from+Italy.;Hi,+I'm+Davide.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=It's-a+me+Davide!+I'm+an+Italian+Dev;Hi,+I'm+Davide,+Dev+and+Designer+from+Italy.;Hi,+I'm+Davide.)](https://git.io/typing-svg)
 
 # About me
 
