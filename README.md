@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=It's-a+me+Davide!+I'm+an+Italian+Dev;Hi,+I'm+Davide,+Dev+and+Designer+from+Italy.;Hi,+I'm+Davide.)](https://git.io/typing-svg)
-
 # About me
+[![Hi, I'm Davide](https://readme-typing-svg.herokuapp.com/?lines=I'm+Davide,+an+Italian+Dev+and+Designer;Hi,+I'm+Davide,+Dev+and+Designer+from+Italy.;It's-a+me+Davide!)](https://git.io/typing-svg)
 
 ## My Stats
 [![theFreeman96's GitHub stats](https://github-readme-stats.vercel.app/api?username=theFreeman96&show_icons=true&theme=noctis_minimus)](https://github.com/theFreeman96/github-readme-stats)
